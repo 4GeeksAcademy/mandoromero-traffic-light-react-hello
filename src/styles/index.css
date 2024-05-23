@@ -7,7 +7,7 @@
 #container {
     background-color: black;
     width: 68px;
-    height: 184px;
+    height: 234px;
     Margin-left: 422px;
     padding: 7px;
     border-radius: 10px;
@@ -40,4 +40,29 @@
 .glow-green {
     box-shadow: 0px 0px 20px 10px green;
 }
-
+.cycleButton {
+    width: 200px;
+    margin-left: 45px;
+}
+.cycle-button {
+    border-radius: 10%;
+    color: #cccccc;
+    border: none;
+    padding:10px;
+}
+.purpleButton {
+    margin-left: 30px;
+}
+.purple-button {
+    border-radius: 10%;
+    color: #cccccc;
+    background: purple;
+    border: none;
+    padding:10px;
+}
+.purple {
+    background-color: purple;
+}
+.glow-purple {
+    box-shadow: 0px 0px 20px 10px purple; 
+}
